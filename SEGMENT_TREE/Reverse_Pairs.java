@@ -1,4 +1,5 @@
 public class Reverse_Pairs{
+    
     public static  int reversePairs(int[] nums) {
         if(nums.length<2 || nums == null){
             return 0;
