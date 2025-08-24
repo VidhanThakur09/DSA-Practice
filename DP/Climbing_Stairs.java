@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.* ;
 
 public class Climbing_Stairs {
 	public static int climbStairs(int n) {
