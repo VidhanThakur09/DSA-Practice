@@ -1,44 +1,56 @@
-# 🚀 DSA Practice in Java  
+# 🚀 DSA Practice in Java & Python  
 
-Welcome to my **DSA-Practice-Java** repository 🎉  
-This is my personal space where I solve **Data Structures & Algorithms (DSA)** problems using **Java**.  
+Welcome to Our **DSA-Practice Repository** 🎉  
+This is Our personal space where We solve **Data Structures & Algorithms (DSA)** problems using **Java** and **Python**.  
 
 I created this repo to:  
 - Strengthen my **problem-solving skills** 💡  
 - Build consistency in **DSA practice** 🧑‍💻  
 - Prepare for **coding interviews** and challenges ⚡  
+- Compare approaches in **Java vs Python** for deeper understanding 🔀  
 
 ---
 
 ## 📂 Repository Overview  
 
 ```bash
-DSA-Practice-Java/
+DSA-Practice/
 │
-├── Arrays/
-├── Strings/
-├── LinkedList/
-├── Sorting/
-├── Searching/
-└── More coming soon...
+├── Java/
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── LinkedList/
+│   ├── Sorting/
+│   ├── Searching/
+│   └── More coming soon...
+│
+├── Python/
+│   ├── Arrays/
+│   ├── Strings/
+│   ├── LinkedList/
+│   ├── Sorting/
+│   ├── Searching/
+│   └── More coming soon...
 ```
 
-👉 Each folder contains Java solutions for problems under that **DSA topic**.  
+👉 Each folder contains **Java & Python solutions** for problems under that **DSA topic**.  
 All code is clean, well-commented, and organized for quick reference.  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-- **Language:** Java ☕  
-- **IDE:** IntelliJ IDEA / VS Code  
+- **Languages:**  
+  - Java ☕  
+  - Python 🐍  
+- **IDE:** IntelliJ IDEA / VS Code / PyCharm  
 - **Version Control:** Git & GitHub  
 
 ---
 
 ## 📖 How I Use This Repo  
 
-- Pick a DSA topic → Solve problems → Push solutions  
+- Pick a DSA topic → Solve problems in **Java & Python** → Push solutions  
 - Keep track of progress (✅ Arrays, ✅ Strings, 🔄 LinkedList, etc.)  
 - Revisit old problems to improve efficiency & optimize solutions  
 
@@ -56,8 +68,23 @@ All code is clean, well-commented, and organized for quick reference.
 
 ## ✨ Why This Repo Exists  
 
-This repo is mainly for **personal growth**, but anyone interested in learning/practicing **DSA in Java** is welcome to check it out.  
+This repo is mainly for **personal growth**, but anyone interested in learning/practicing **DSA in Java & Python** is welcome to check it out.  
 It’s a simple way to see my journey, and maybe inspire others to start theirs 🚀  
+
+---
+
+## 🚀 How to Run  
+
+### Java  
+```bash
+javac Solution.java
+java Solution
+```
+
+### Python  
+```bash
+python solution.py
+```
 
 ---
 
@@ -70,7 +97,7 @@ It keeps me motivated to keep pushing new solutions 💪
 
 ## 👨‍💻 Author  
 
-**Vidhan Thakur**  
+**Vidhan Thakur (Java) & Aditi Dubey (Python)**  
 Learning. Practicing. Growing. One problem at a time.  
 
 ---
