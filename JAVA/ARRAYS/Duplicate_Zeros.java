@@ -13,8 +13,7 @@ public class Duplicate_Zeros {
         }
 
         for(int i = 0;i<dp.length;i++){
-            arr[i] = dp[i];
+            arr[i] = dp[i];   
         }
-        
     }
 }
