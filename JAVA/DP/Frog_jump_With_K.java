@@ -1,3 +1,11 @@
+// explanation , in this code you have to see how we can achive the the number of stairs in just k steps 
+// so for this we use fabonacci approch where we achive number of N element by checking the previous k elements (Like n-1 ,n-2 , n-3 .... n-k)
+// so which this we can achive this here the base case is that we have to put Oth and Ith value by hardcode and 
+// and here we have to find the dp[i] = Math.abs(previous - current) + dp[i-j] where j is from 1 to k and i from 2 to n-1 
+
+// # mistake -> run loop from 2 or 1 to n-1 in I th not from 0th
+
+
 public class Frog_jump_With_K {
     public static int minCost(int[] height,int k) {
         if(height.length == 0){
