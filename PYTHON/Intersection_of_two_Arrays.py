@@ -17,5 +17,11 @@ nums1 = [4,9,5]
 nums2= [9,4,9,8,4]
 print(list(set(nums1) & set(nums2)))
 
+"""
+Few points to remember:list(set(...)) → converts a set back to a list when the problem expects a list (common in coding problems).
+Always convert before applying set operations if your data is a list.
+Using sets removes duplicates automatically.
+"""
+
 
 
