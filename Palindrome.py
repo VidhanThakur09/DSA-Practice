@@ -27,14 +27,7 @@ def isPalindrome(x):
 x = 121
 print(isPalindrome(x))
 
-"""
-Explaination :
-x % 10 gets the last digit (121 % 10 = 1)
-v * 10 shifts existing digits left (0 → 0, then 1 → 10, then 12 → 120)
-v * 10 + (x % 10) adds the new digit (0+1=1, then 10+2=12, then 120+1=121)
-x // 10 removes the last digit (121 → 12 → 1 → 0)
-Compares original number (a) with reversed number (v)
-Returns True if they match, False otherwise
-"""
+
+
 
 
