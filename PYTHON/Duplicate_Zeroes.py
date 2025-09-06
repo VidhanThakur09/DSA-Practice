@@ -24,6 +24,9 @@ arr = [1,0,2,3,0,4,5,0]
 print(duplicateZeros(arr))
 for i in range (0,len(arr)) :
      print(arr[i])
+
+
+
     
       
 
