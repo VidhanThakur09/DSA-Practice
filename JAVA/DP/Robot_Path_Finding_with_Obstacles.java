@@ -2,6 +2,7 @@ public class Robot_Path_Finding_with_Obstacles {
 
     // Brute Force Approach: Recursion
     // Time Complexity: O(2^(n*m)) Space Complexity: O(1)
+
     static int count;
     public int uniquePathsWithObstaclesBruteForce(int[][] grid) {
         int n = grid.length, m = grid[0].length;
@@ -25,6 +26,7 @@ public class Robot_Path_Finding_with_Obstacles {
 
     // Optimal Approach: Dynamic Programming
     // Time Complexity: O(n*m) Space Complexity: O(n*m)
+    
     public int uniquePathsWithObstacles(int[][] grid) {
         // int[][] grid = {{0,0,0}, {0,1,0},{0,0,0}};
         int n = grid.length, m = grid[0].length;
