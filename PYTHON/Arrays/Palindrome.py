@@ -17,7 +17,8 @@ def isPalindrome(x):
         a = x # a keeps the original number for comparison later
         v = 0 # v will build the reversed number digit by digit
         i =0
-        while x != 0 : 
+        while x != 0 : #while x != 0:
+#This means: “Keep doing the steps below until the number becomes 0.”
             v= v*10+(x%10)
             x = x//10 #he / operator performs floating-point division, which returns a float (like 12.1, 1.21, etc.). You need integer division // instead.
 
