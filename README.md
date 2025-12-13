@@ -69,7 +69,7 @@ All code is clean, well-commented, and organized for quick reference.
 ## ✨ Why This Repo Exists  
 
 This repo is mainly for **personal growth**, but anyone interested in learning/practicing **DSA in Java & Python** is welcome to check it out.  
-It’s a simple way to see my journey, and maybe inspire others to start theirs 🚀  
+It’s a simple way to see our journey, and maybe inspire others to start theirs 🚀  
 
 ---
 
